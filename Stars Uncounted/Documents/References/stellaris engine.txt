@@ -1,0 +1,2 @@
+stellaris and all other paradox games run on the Clausewitz engine. May be useful to consider separate from Unity.
+https://www.moddb.com/engines/clausewitz-engine/downloads
